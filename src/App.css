@@ -1,9 +1,14 @@
+*,::after,::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 .App {
   text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
 }
 
